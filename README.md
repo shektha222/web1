@@ -1,1 +1,32 @@
 # web1
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      h1{
+        font-size: 40px;
+        text-align: center;
+
+      }
+    </style>
+    <meta charset="utf-8">
+    <title>Joseph's Pic</title>
+  </head>
+  <body>
+    <h1>Joseph's life in pictures</h1>
+
+    <img src="joseph1.jpg" width="30%">
+    <img src="joseph2.jpg" width="30%">
+    <img src="joseph4.jpg" width="30%">
+
+    <img src="joseph3.jpg" width="30%">
+    <img src="joseph5.jpg" width="30%">
+    <img src="joseph6.jpg" width="30%">
+    <img src="joseph8.jpg" width="30%">
+    <img src="joseph9.jpg" width="30%">
+    <img src="joseph10.jpg" width="30%">
+
+
+
+  </body>
+</html>
